@@ -1,0 +1,22 @@
+{
+  "classes": [
+    "bye",
+    "hello",
+    "ily",
+    "no",
+    "please",
+    "sorry",
+    "thank_you",
+    "yes"
+  ],
+  "label_map": {
+    "bye": 0,
+    "hello": 1,
+    "ily": 2,
+    "no": 3,
+    "please": 4,
+    "sorry": 5,
+    "thank_you": 6,
+    "yes": 7
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "classes": [
+    "bye",
+    "hello",
+    "ily",
+    "no",
+    "please",
+    "sorry",
+    "thank_you",
+    "yes"
+  ],
+  "num_classes": 8,
+  "input_size": 63,
+  "hidden_size": 128,
+  "num_layers": 2,
+  "sequence_length": 30,
+  "epochs": 100,
+  "batch_size": 32,
+  "lr": 0.001,
+  "device": "cpu"
+}
