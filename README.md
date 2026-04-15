@@ -1,4 +1,4 @@
-# MPR_SEM_4 — Sign Language Learning & Recognition Platform
+# Signova — Sign Language Learning & Recognition Platform
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/yach26/Signova_MPR_SEM_4?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/yach26/Signova_MPR_SEM_4?style=for-the-badge)
